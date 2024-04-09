@@ -1,0 +1,87 @@
+<!doctype html>
+<!--Quite a few clients strip your Doctype out, and some even apply their own. Many clients do honor your doctype and it can make things much easier if you can validate constantly against a Doctype.-->
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email Signature</title>
+<body>
+    <table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Roboto, Arial;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+      <tbody>
+        <tr>
+          <td>
+            <table style="font-size: large; font-family: Roboto, Arial; width: 263px; height: 349px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top;">
+                    <table class="sc-gPEVay eQYmiW" style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial;" cellspacing="0" cellpadding="0">
+                      <tbody>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td style="padding: 0px; vertical-align: middle;">
+                    <h3 style="margin: 0px; font-size: 20px; color: #0059D0; font-weight: 900 !important; text-transform: none;" class="sc-fBuWsC eeihxG">First
+                      Lastname</h3>
+					<p style="margin: 0px; color: #4A5B82; font-size: 14px; line-height: 24px;" class="sc-fMiknA bxZCMx">(Pronouns)</p>
+                    <p style="margin: 0px; color: #091C45; font-size: 14px; line-height: 24px; font-weight: bold;" class="sc-fMiknA bxZCMx">Position Title</p>
+                    <table class="sc-gPEVay eQYmiW" style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial; width: 100%;" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                        </tr>
+                        <tr>
+                          <td style="width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #C5CBDB; border-left-style: none; display: block;" class="sc-jhAzac hmXDXQ"><br>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <br>
+                    <img alt="Storj Labs" src="https://link.storjshare.io/s/jw3gaygr3qeirtkzr6p53yppfslq/media%2Fstorj-logo-email.png?wrap=0" style="max-width: 150px; display: block;" class="sc-cHGsZl bHiaRe" width="150"><br>
+                    <table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr style="vertical-align: middle; horizontal-align: middle;">
+                          <td style="vertical-align: middle;" width="30">
+                            <table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+                              <tbody>
+                                <tr>
+                                  <td style="vertical-align: bottom;"><span style="display: block;" class="sc-jlyJG bbyJzT"><img alt="Email:" src="https://link.storjshare.io/s/juiksn4lhymen7rrdj4pu2autamq/media%2Fstorj-ui-icon-phone-mail%402x.png?wrap=0" style="display: block; padding-top: 6px;" class="sc-iRbamj blSEcj" width="17"></span></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                          <td style="padding: 0px;"><a href="mailto:@storj.io" style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb">
+                              myemail@storj.io</a></td>
+                        </tr>
+                        <tr style="vertical-align: middle; middle; horizontal-align: middle;">
+                          <td style="vertical-align: middle;" width="10">
+                            <table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+                              <tbody>
+                                <tr>
+                                  <td style="vertical-align: center; padding-bottom: 5px;"><span style="display: block;" class="sc-jlyJG bbyJzT"><img alt="Storj:" src="https://link.storjshare.io/s/jvctgm24apnmsm3l2kphjbrfzspa/media%2Fstorj-ui-icon-browser%20copy%402x.png?wrap=0" style="display: block; padding-top: 10px;" class="sc-iRbamj blSEcj" width="17"></span></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                          <td style="padding: 0px;"><a href="https://www.storj.io" style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb">
+                              www.storj.io</a></td>
+                        </tr>
+                        <tr style="vertical-align: middle; middle; horizontal-align: middle;">
+                          <td style="vertical-align: middle;" width="10">
+                            <table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Arial;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</body>
+</head>
+</html>
